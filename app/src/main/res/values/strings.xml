@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">gay</string>
+    <string name="tasks">This is your tasks list</string>
+    <string name="Hello">Hello Admin</string>
+    <string name="Login">Log in</string>
+    <string name="Namae">Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Group">Group</string>
+    <string name="Cancel">Cancel</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
